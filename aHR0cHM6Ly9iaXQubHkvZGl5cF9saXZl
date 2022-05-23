@@ -366,8 +366,8 @@
         {
           "name": "redirect",
           "urls": [
-            "https://raw.githubusercontent.com/lucaply/Hello-world/master/MainTV"
-//            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXQubHkvZGl5cF9saXZl"
+//            "https://raw.githubusercontent.com/lucaply/Hello-world/master/MainTV"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXQubHkvZGl5cF9saXZl"
           ]
         }
       ]

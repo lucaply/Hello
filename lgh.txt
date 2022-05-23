@@ -1,4 +1,3 @@
-###
 {
   "sites": [ 
 {"key":"csp_appys_iptv_小极TV", "name":"小极TV(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_小极TV"}
@@ -36,21 +35,6 @@
 	{"name":"Json.VodJX","url":"https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=","type":1}
 	],
 	  
-  "flags": [
-    "youku",
-    "qq",
-    "iqiyi",
-    "qiyi",
-    "letv",
-    "sohu",
-    "tudou",
-    "pptv",
-    "mgtv",
-    "wasu",
-    "bilibili"
-  ],
-  "spider": "https://gitee.com/luobenji/luobenji/raw/master/custom_spider.jar",
-
   "ijk": [
     {
       "group": "软解码",

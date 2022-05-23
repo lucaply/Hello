@@ -12,15 +12,6 @@
 	"quickSearch":1,
 	"filterable":1,
 	"ext":"http://json.myaixixi.com/mtv/xpath/zxzj.json"},
-   {
-      "key":"csp_xpath_qnkk8",
-      "name":"全能影视",
-      "type":3,
-      "api":"csp_XPathMacFilter",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1,
-      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/wip-qnkk8.json"},    	  
 //////////////////////////////// 最后 /////////////////////////////////////
 	{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 	{"key":"END","name":"END of LIST","type":0,"api":""}],
@@ -62,14 +53,13 @@
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
 {"category":4,"name":"soundtouch","value":"1"},
-{"category":4,"name":"start-on-prepared","value":"1"},
+
 {"category":1,"name":"http-detect-range-support","value":"0"}
 ]},
 	
 {"group":"硬解码","options":[
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
-{"category":4,"name":"framedrop","value":"1"},
 {"category":4,"name":"soundtouch","value":"1"}
 ]}],
 

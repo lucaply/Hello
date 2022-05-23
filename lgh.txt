@@ -1,11 +1,3 @@
-// New Interface (Simple Black)
-// https://i.imgur.com/71RkM0u.jpg
-// https://i.imgur.com/bdTzXtd.jpg
-
-// Sample Logo
-// https://i.imgur.com/dXWi9gd.png - v1
-// https://i.imgur.com/laArUXs.png - v2
-
 { 
 "wallpaper":"https://i.imgur.com/ZVPwJPE.png",
 	
@@ -91,15 +83,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/cokem.json"},
-   {
-      "key":"csp_xpath_ctv",
-      "name":"冲tmTV",
-      "type":3,
-      "api":"csp_XPathMacFilter",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1,
-       "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/chongtmtv.json"},
     {
       "key":"rrm",
       "name":"人人迷",
@@ -110,15 +93,6 @@
       "quickSearch":1,
       "filterable":1,
       "categories":["电影","连续剧","综艺","动漫"] 	},
-//   {
-//      "key":"csp_appys_南府追剧",
-//      "name":"南府追剧",
-//      "type":3,
-//      "api":"csp_AppYs",
-//      "searchable":1,
-//      "quickSearch":0,
-//      "filterable":1,
-//      "ext":"http://iapp.nfuxs.club/dnmb.php/v1.vod"},
    {
       "key":"csp_xpath_nfm",
       "name":"Netflix MOM",
@@ -146,15 +120,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/ttsp.json"},
-//   {
-//      "key": "csp_YydsAli1",
-//      "name": "YYDS-NA",
-//      "type": 3,
-//      "api": "csp_YydsAli1",
-//      "searchable": 1,
-//      "quickSearch": 1,
-//      "filterable": 1,
-//      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/yyds.json"},
    {
       "key":"csp_xpath_zxzj",
       "name":"在线之家",
@@ -188,15 +153,6 @@
       "quickSearch":1,
       "filterable": 1,
       "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/wip-qnkk8.json"}, 
-   {
-      "key":"csp_xpath_pianba",
-      "name":"====片吧====",
-      "type":3,
-      "api":"csp_XPath",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/main/pianba.json"},
       
 //////////////////////////////// 动漫 /////////////////////////////////////
 	{

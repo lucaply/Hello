@@ -76,13 +76,12 @@
 {"name":"06","type":1,"url":"https://play.akmeiju.cc:553/akmeiju.php?url=","ext":{"flag":["aikan"]}}
 ],
 
-"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy","longteng","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","xueren","xfyun","ziqie","wuduzy","CL4K","xuanfeng","1920l"],
+"flags":["youku","qq","iqiyi","qiyi","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","xueren","xfyun","ziqie","wuduzy","CL4K","xuanfeng","1920l"],
 
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
-{"category":4,"name":"framedrop","value":"1"},
 {"category":4,"name":"soundtouch","value":"1"},
 {"category":4,"name":"start-on-prepared","value":"1"},
 {"category":1,"name":"http-detect-range-support","value":"0"}
@@ -103,21 +102,6 @@
     "stj.v1vo.top",
     "z12.cnzz.com",
     "img.mosflower.cn",
-    "tips.gamevvip.com",
-    "ehwe.yhdtns.com",
-    "xdn.cqqc3.com",
-    "www.jixunkyy.cn",
-    "sp.chemacid.cn",
-    "hm.baidu.com",
-    "s9.cnzz.com",
-    "z6.cnzz.com",
-    "um.cavuc.com",
-    "mav.mavuz.com",
-    "wofwk.aoidf3.com",
-    "z5.cnzz.com",
-    "xc.hubeijieshikj.cn",
-    "tj.tianwenhu.com",
-    "xg.gars57.cn",
     "k.jinxiuzhilv.com",
     "cdn.bootcss.com",
     "ppl.xunzhuo123.com",

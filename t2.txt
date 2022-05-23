@@ -1,6 +1,6 @@
 { 
 "wallpaper":"https://i.imgur.com/ZVPwJPE.png",
-//"spider": "https://github.com/takagen99/channel/blob/master/CATVOD/20220424.jar?raw=true",	
+"spider": "https://github.com/takagen99/channel/blob/master/CATVOD/20220424.jar?raw=true",	
 
 "sites": [
 {

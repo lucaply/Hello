@@ -1,51 +1,6 @@
 { 
 "wallpaper":"https://i.imgur.com/ZVPwJPE.png",
-"spider": "https://github.com/takagen99/channel/blob/master/CATVOD/20220424.jar?raw=true",
-//////////////////////////////// 影视 /////////////////////////////////////	
-"sites": [
-    {
-      "key": "csp_xpath_olevod",
-      "name":"欧乐影院-Exo",
-      "type":3,
-      "api":"csp_XPathMacFilter",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1,
-      "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/lite/olevod.json"},  
-   {
-      "key":"csp_xpath_qnkk8",
-      "name":"全能影视",
-      "type":3,
-      "api":"csp_XPathMacFilter",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1,
-      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/wip-qnkk8.json"}, 
-      
-//////////////////////////////// 动漫 /////////////////////////////////////
-	{
-	  "key":"csp_xpath_ysj",
-	  "name":"异世界动漫",
-	  "type":3,
-	  "api":"csp_XPathMacFilter",
-	  "searchable":1,
-	  "quickSearch":1,
-	  "filterable": 1,
-	  "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/main/ysj.json"	},
-//////////////////////////////// 测试 /////////////////////////////////////
-	{
-	  "key":"csp_xpath_test1",
-	  "name":"====Test1====",
-	  "type":3,
-	  "api":"csp_XPathMacFilter",
-	  "searchable":1,
-	  "quickSearch":1,
-	  "filterable": 1,
-	  "ext":"https://pastebin.com/raw/LR84aD8a"	},	  
-//////////////////////////////// 最后 /////////////////////////////////////
-	{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
-	{"key":"END","name":"END of LIST","type":0,"api":""}],
-	
+"spider": "https://github.com/takagen99/channel/blob/master/CATVOD/20220424.jar?raw=true",	
 
 //////////////////////////////// 直播 /////////////////////////////////////
 "lives": [
@@ -100,15 +55,6 @@
     "www.googletagmanager.com",
     "www.google-analytics.com",
     "mc.usihnbcq.cn",
-    "mg.g1mm3d.cn",
-    "mscs.svaeuzh.cn",
-    "cnzz.hhttm.top",
-    "tp.vinuxhome.com",
-    "cnzz.mmstat.com",
-    "www.baihuillq.com",
-    "s23.cnzz.com",
-    "z3.cnzz.com",
-    "c.cnzz.com",
     "stj.v1vo.top",
     "z12.cnzz.com",
     "img.mosflower.cn",

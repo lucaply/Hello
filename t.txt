@@ -2,27 +2,21 @@
 "wallpaper":"https://i.imgur.com/ZVPwJPE.png",
 "spider": "https://github.com/takagen99/channel/blob/master/CATVOD/20220424.jar?raw=true",	
 
-"sites":[
-        {
-            "key":"csp_xpath_subb",
-            "name":"默认",
-            "type":3,
-            "api":"csp_XPathSubb",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/subaibai.json"
-        },
-	{
-            "key":"csp_appys_v1_阔贼影院",
-            "name":"阔贼影院(M)",
-            "type":3,
-            "api":"csp_AppYs",
-            "searchable":1,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"v1_阔贼影院"
-        }],	        
+"sites": [
+    {
+      "key": "csp_xpath_olevod",
+      "name":"欧乐影院-Exo",
+      "type":3,
+      "api":"csp_XPathMacFilter",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable": 1,
+      "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/lite/olevod.json"},	  
+//////////////////////////////// 最后 /////////////////////////////////////
+	{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
+	{"key":"END","name":"END of LIST","type":0,"api":""}],
+	
+	
 
 
 //////////////////////////////// 直播 /////////////////////////////////////

@@ -5,36 +5,6 @@
     "url":"Sequence",
     "sites":[
         {
-            "key":"csp_xpath_subb",
-            "name":"默认",
-            "type":3,
-            "api":"csp_XPathSubb",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/subaibai.json"
-        },
-        {
-            "key":"csp_xpath_subb",
-            "name":"素白白(XP)",
-            "type":3,
-            "api":"csp_XPathSubb",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/subaibai.json"
-        },
-        {
-            "key":"csp_appys_v1_CJT影院",
-            "name":"CJT影院(搜)",
-            "type":3,
-            "api":"csp_AppYs",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"v1_CJT影院"
-        },
-        {
             "key":"csp_appys_v1_阿姨追剧",
             "name":"阿姨追剧(搜)",
             "type":3,
@@ -53,16 +23,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"xiaogui_影视工场"
-        },
-        {
-            "key":"csp_appys_xiaogui_MK影视",
-            "name":"MK影视(搜)",
-            "type":3,
-            "api":"csp_AppYs",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"xiaogui_MK影视"
         },
         {
             "key":"csp_appys_v1_阔贼影院",

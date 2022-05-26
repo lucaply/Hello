@@ -28,7 +28,8 @@
               "http://pull-hls-f26.douyincdn.com/stage/stream-399179762746261605_or4.m3u8",
               "http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8",
               "http://pull-hls-f26.douyincdn.com/stage/stream-687426789814829157_or4.m3u8",
-              "http://pull-hls-f6.douyincdn.com/stage/stream-687426789814829157_or4/index.m3u8"
+              "http://pull-hls-f6.douyincdn.com/stage/stream-687426789814829157_or4/index.m3u8",
+              "http://pull-f5.flive.douyincdn.com/third/stream-110966615993483373_hd/index.m3u8"
           ]
         }
       ]

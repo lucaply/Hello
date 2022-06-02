@@ -26,7 +26,7 @@
         {
           "name": "刘畊宏",
           "urls": [
-              "http://pull-hls-f26.douyincdn.com/stage/stream-687426789814829157_or4.m3u8",
+              "http://pull-f3.douyincdn.com/stage/stream-399239807665963109_or4.m3u8",
               "http://pull-hls-f6.douyincdn.com/stage/stream-687426789814829157_or4/index.m3u8",
               "http://pull-hls-l1.douyincdn.com/third/stream-110966876305358886_hd/playlist.m3u8",
               "http://pull-f5.flive.douyincdn.com/third/stream-110966615993483373_hd/index.m3u8"
